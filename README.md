@@ -3,4 +3,4 @@ Installing Jupyter Notebook / Jupyter Lab is easy and straight forward: https://
 
 
 # Ideas
-- 
+- Add $inc to transactions demo to guarantee a write and avoid noop
