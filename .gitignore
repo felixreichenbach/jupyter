@@ -1,10 +1,5 @@
 
-.ipynb_checkpoints/Demo_TransactionsThread1-checkpoint.ipynb
-.ipynb_checkpoints/pyExcelImport-checkpoint.ipynb
 .DS_Store
-excelimport/.ipynb_checkpoints/pyExcelImport-checkpoint.ipynb
-transactions/.ipynb_checkpoints/Demo_TransactionsThread1-checkpoint.ipynb
-transactions/.ipynb_checkpoints/Demo_TransactionsThread2-checkpoint.ipynb
-transactions/.ipynb_checkpoints/Demo_TransactionsSession1-checkpoint.ipynb
-transactions/.ipynb_checkpoints/Demo_TransactionsThreadNoSession-checkpoint.ipynb
+excelimport/.ipynb_checkpoints/*
+transactions/.ipynb_checkpoints/*
 mdb_to_parquet/.ipynb_checkpoints/*
