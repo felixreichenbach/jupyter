@@ -3,3 +3,5 @@
 excelimport/.ipynb_checkpoints/*
 transactions/.ipynb_checkpoints/*
 mdb_to_parquet/.ipynb_checkpoints/*
+*.pid
+field_level_encryption/.ipynb_checkpoints/fieldLevelEncryption-checkpoint.ipynb
