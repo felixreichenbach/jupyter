@@ -6,6 +6,6 @@ The code is written in Python and can easily be adjusted to accomodate specific 
 
 Please provide feedback and suggestions for improvement!
 
-If you haven't worke with Jupyter yet, please head to https://jupyter.org/.
+If you haven't worked with Jupyter yet, please head to https://jupyter.org/.
 
 Installation on your Mac is easy and straight forward!
