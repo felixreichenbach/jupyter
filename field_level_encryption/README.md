@@ -14,10 +14,13 @@ Installation on your Mac is easy and straight forward!
 ## Prerequisits
 
 pymongo (version >=3.9)
+
 ```pip install pymongo```
 
 pymongocrypt
+
 ```pip install pymongocrypt```
 
 mongocryptd
+
 Executable in the installation folder of MongoDB Enterprise 4.2
