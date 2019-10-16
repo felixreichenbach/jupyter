@@ -17,6 +17,8 @@ Installation on your Mac is easy and straight forward!
 
 pymongo (version >=3.9)
 
+```pip show pymongo
+
 ```pip install pymongo```
 
 pymongocrypt
