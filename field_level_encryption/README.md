@@ -1,6 +1,6 @@
 # Client Side Field Level Encryption Demo
 
-This demo is built upon a Jupyter Notebook and uses a local mongodb node and python to demonstrate client side field level encryption end to end.
+This demo is built upon a Jupyter Notebook and will show how to handle encryption keys and data in different databases. In this case, the keys will be hostet onPrem on a local running mongod on your laptop and the data will be stored in Atlas.
 
 The code is written in Python and can easily be adjusted to accomodate specific needs.
 
